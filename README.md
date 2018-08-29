@@ -10,3 +10,4 @@ Click through the numbers 1-50 in order. The timer will start when you click 1 a
 The file is a simple html file that you can download and open with any web browser.
 
 <img src="https://github.com/dexink1/Number-Clicker/blob/master/nc1.png" width=50% height=auto>
+<img src="https://github.com/dexink1/Number-Clicker/blob/master/nc2.png" width=50% height=auto>
